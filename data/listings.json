@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "Schedule": "09.00 hr",
+    "title": "End of year",
+    "Venue": "Luxe Hotel",
+    "description": "Join us for an unforgettable night of celebration as we bid farewell to the current year and usher in the new one at the luxurious Luxe Hotel. Enjoy a night of delicious food, great music, and amazing company in a stunning setting. Don't miss out on this once-in-a-lifetime experience and make lasting memories with us.",
+    "category": "Party",
+    "Organizer": "Jeremy Tin",
+    "dateAdded": "2022-11-10",
+    "Parking": "Underground Parking",
+    "FoodAndBeverages": "Eastern Buffet",
+    "picture": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_652655224_20190924120354.jpg",
+    "Summary": "Bring LSD",
+    "phone": "56324444",
+    "location" : "-20.000742875229996, 57.58301312028084",
+    "activities": [
+      {
+        "id": "1",
+        "activity": "Dancing and karaoke",
+        "participation": true
+      },
+      {
+        "id": "2",
+        "activity": "Raffle draw with great prizes",
+        "participation": false
+      },
+      {
+        "id": "3",
+        "activity": "Photo booth and props",
+        "participation": false
+      }
+    ],
+    "Register": false
+  
+
+  },
+  {
+    "id": "2",
+    "Schedule":"11.00 hr",
+    "title": "Brave",
+    "Venue": "Duck Hotel",
+    "description": ".....",
+    "category": "Meeting",
+    "Organizer": "Azhar Nanyeck",
+    "dateAdded": "2022-11-10",
+    "Parking":"Underground Parking",
+    "FoodAndBeverages": "Eastern Buffet",
+    "picture":    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/90/c6/e8/luxe-sunset-boulevard.jpg?w=700&h=-1&s=1",
+    "Summary":"Bring ideas",
+    "phone": "56324444",
+    "location" : "",
+    "activities": [
+      {
+        "id": "1",
+        "activity": "Dancing and karaoke",
+        "participation": false
+      },
+      {
+        "id": "2",
+        "activity": "Raffle draw with great prizes",
+        "participation": false
+      },
+      {
+        "id": "3",
+        "activity": "Photo booth and props",
+        "participation": false
+      }
+    ],
+    "Register": false
+  },
+  {
+    "id": "3",
+    "Schedule":"15.00 hr",
+    "title": "Hunger games",
+    "Venue": "Suriname",
+    "description": ".....",
+    "category": "Sport",
+    "Organizer": "Matthieu Hullodhur",
+    "dateAdded": "2022-11-10",
+    "Parking":"Underground Parking",
+    "FoodAndBeverages": "Eastern Buffet",
+    "picture":   "https://images.unsplash.com/photo-1555086156-e6c7353d283f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmF2ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+    "Summary":"Bring LSD",
+    "phone": "56324444",
+    "location" : "",
+    "activities": [
+      {
+        "id": "1",
+        "activity": "Dancing and karaoke",
+        "participation": false
+      },
+      {
+        "id": "2",
+        "activity": "Raffle draw with great prizes",
+        "participation": false
+      },
+      {
+        "id": "3",
+        "activity": "Photo booth and props",
+        "participation": false
+      }
+    ],
+    "Register":false
+  }
+  ]
