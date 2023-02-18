@@ -7,5 +7,32 @@
       "email": "o.g@email.mu",
       "contactNumber": "+230 5777 6661",
       "password" : "1234"
+    },
+    {
+      "id": "2",
+      "firstName": "Jeremy",
+      "lastName": "Tin",
+      "address": "1 street name, Curepipe",
+      "email": "o.g@email.mu",
+      "contactNumber": "+230 5777 6662",
+      "password" : "1234"
+    },
+    {
+      "id": "3",
+      "firstName": "Bob",
+      "lastName": "Bob",
+      "address": "1 street name, Curepipe",
+      "email": "o.g@email.mu",
+      "contactNumber": "+230 5777 6663",
+      "password" : "1234"
+    },
+    {
+      "id": "4",
+      "firstName": "Matthieu",
+      "lastName": "Bob",
+      "address": "1 street name, Curepipe",
+      "email": "o.g@email.mu",
+      "contactNumber": "+230 5777 6664",
+      "password" : "1234"
     }
   ]
