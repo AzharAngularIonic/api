@@ -49,7 +49,7 @@
     "picture":    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/90/c6/e8/luxe-sunset-boulevard.jpg?w=700&h=-1&s=1",
     "Summary":"Bring ideas",
     "phone": "56324444",
-    "location" : "",
+     "location" : "-20.000742875229996, 57.58301312028084",
     "activities": [
       {
         "id": "1",
@@ -83,7 +83,7 @@
     "picture":   "https://images.unsplash.com/photo-1555086156-e6c7353d283f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmF2ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
     "Summary":"Bring LSD",
     "phone": "56324444",
-    "location" : "",
+    "location" : "-20.000742875229996, 57.58301312028084",
     "activities": [
       {
         "id": "1",
